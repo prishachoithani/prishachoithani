@@ -7,18 +7,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-```
- ██████╗ ██████╗ ██╗███████╗██╗  ██╗ █████╗
- ██╔══██╗██╔══██╗██║██╔════╝██║  ██║██╔══██╗
- ██████╔╝██████╔╝██║███████╗███████║███████║
- ██╔═══╝ ██╔══██╗██║╚════██║██╔══██║██╔══██║
- ██║     ██║  ██║██║███████║██║  ██║██║  ██║
- ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
 
 ### 🌸 *1st Year CS Student • Future AI Software Engineer • Professional Chaos Enjoyer* 🌸
 
@@ -35,7 +24,7 @@ Hi! I'm **Prisha Choithani** — a 1st year **Computer Science** student on a mi
 - 🎓 **Branch:** Computer Science Engineering — Year 1
 - 🤖 **Destination:** AI Software Engineer
 - 💡 **Learning Goal:** To master the intersection of human intelligence and artificial intelligence — because the best AI is built by people who deeply understand people.
-- 🌍 **Currently exploring:** Python, Data Structures, Machine Learning fundamentals & everything in between
+- 🌍 **Currently:** Building projects, winning hackathons, and figuring it out as I go
 
 ---
 
@@ -61,14 +50,24 @@ Hi! I'm **Prisha Choithani** — a 1st year **Computer Science** student on a mi
 
 <div align="center">
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -117,19 +116,21 @@ class Prisha:
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 What I've Actually Done (So Far)
 
 <div align="center">
 
-```
-🔷 Data Structures & Algorithms      ████████░░░░  60%
-🔷 Machine Learning Basics            ████░░░░░░░░  30%
-🔷 Python (intermediate)              ██████░░░░░░  50%
-🔷 Web Fundamentals                   ██████░░░░░░  50%
-🔷 AI/ML Research Papers              ██░░░░░░░░░░  20%  (just starting!)
-```
+| 🎖️ Achievement | 📋 Details |
+|---|---|
+| 🥇 **Hackathon Winner** | **INNOVIT '26** — won against the odds as a 1st year |
+| 🤖 **Built GlucoGuard-AI** | AI project with **87 commits** — yes, I was committed (pun intended) |
+| 📚 **Certified** | AI & ML Fundamentals + Python Essentials |
+| 💻 **Active Builder** | 4 repositories · 171 contributions · since Nov 2025 |
+| 🔨 **Currently** | Building projects, breaking things, learning the hard way |
 
 </div>
+
+> *"I don't have a roadmap yet — just a direction, a lot of curiosity, and a GitHub commit history that proves I show up."* 🚀
 
 ---
 
