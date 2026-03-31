@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Prisha%20Choithani&fontSize=48&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=CS%20Student%20%20%7C%20%20AI%20Engineer%20in%20the%20Making%20%20%7C%20%20Builder%20by%20Choice&descAlignY=62&descSize=16&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fecfef,100:ffb6c1&height=180&section=header&text=Prisha%20Choithani&fontSize=48&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=CS%20Student%20%20%7C%20%20AI%20Engineer%20in%20the%20Making%20%20%7C%20%20Builder%20by%20Choice&descAlignY=62&descSize=16&descColor=94a3b8" width="100%"/>
 
 </div>
 
@@ -139,6 +139,6 @@ I'm always open to a good conversation — whether it's about AI, career paths, 
 *"I didn't choose Computer Science because it was safe.*  
 *I chose it because it's infinite — and I intend to explore every corner of it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:ffb6c1,50:fecfef,100:ff9a9e&height=120&section=footer" width="100%"/>
 
 </div>
