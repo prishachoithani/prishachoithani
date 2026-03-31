@@ -10,7 +10,9 @@
 
 <div align="center">
 
-*1st Year · Computer Science Engineering · Aspiring AI Software Engineer*
+**Prisha Choithani** · Computer Science Engineering · Year 1
+
+*Hoping to learn how to build AI systems that are as intuitive as they are intelligent.*
 
 </div>
 
